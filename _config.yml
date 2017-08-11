@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Menem Ragab"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://s.gravatar.com/avatar/3b23c17f1325129131427eb08313c112?s=80"
   bio              : "Phoenix Fitness(Cairo) Head Coach, ex Founder and CEO of asknative, I currently make Grapes'n'Berries iOS rock, and make Fitness Apps"
   location         : "Online"
   email            : "menem@phoenixfitnesshub.com"
