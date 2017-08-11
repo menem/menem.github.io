@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Phoenix Fitness Hub"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Menem Ragab"
+description              : "I talk about crossfit, training programs, making software for mobile."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,31 +77,31 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Menem Ragab"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Phoenix Fitness(Cairo) Head Coach, ex Founder and CEO of asknative, I currently make Grapes'n'Berries iOS rock, and make Fitness Apps"
+  location         : "Online"
+  email            : "menem@phoenixfitnesshub.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/menemragab"
   foursquare       :
-  github           :
+  github           : "https://github.com/menem"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/menem/"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/menem/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/menemragab"
   vine             :
   weibo            :
   xing             :
